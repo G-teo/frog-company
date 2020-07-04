@@ -1,0 +1,55 @@
+@media screen and (max-width:1200px){
+  video{
+    width: 100%;
+  }
+  .section2{
+    height: 600px;
+  }
+  .fs8{
+    font-size: 20px;
+  }
+  .form-group{
+    width: 40%;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width:768px){
+  .header-top .row{
+    justify-content: space-between!important;
+  }
+  .header-top .title{
+    width: 25%;
+  }
+  .header-top h1{
+    font-size: 24px;
+  }
+  .header-top h2{
+    font-size: 20px;
+  }
+  .header-top .logo-text{
+    display: none;
+  }
+  .section1 img{
+    width: 40%;
+  }
+  .section1 h2{
+    margin-bottom: 5px;
+    padding-top: 20px;
+  }
+  .section3 .full{
+    padding-bottom: 10px;
+  }
+  .section4 h1{
+    font-size: 30px;
+  }
+  .section6 img{
+    width: 40%;
+  }
+  .section7 .step{
+    margin: 0 auto;
+  }
+  .section9 h1{
+    font-size: 24px;
+  }
+}
